@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.form{
+   border: 3px;
+   color: purple;
+   align-items: center; 
+}
+button{
+    align-content: space-between;
+    
+}
