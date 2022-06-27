@@ -3,12 +3,18 @@
     padding: 0;
     
 }
-.form{
-   border: 3px;
-   color: purple;
-   align-items: center; 
-}
+
 button{
     align-content: space-between;
+    border-radius: 20px;
+    background-color: blueviolet;
+    justify-content: center;
+    display: inline;
+}
+.input {
+    text-align: center;
+}
+#members {
+    align-items: center;
     
 }
